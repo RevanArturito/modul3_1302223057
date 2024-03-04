@@ -1,0 +1,10 @@
+D:\repan\modul3_1302223057\modul3_1302223057\obj\Debug\modul3_1302223057.csproj.AssemblyReference.cache
+D:\repan\modul3_1302223057\modul3_1302223057\obj\Debug\modul3_1302223057.Form1.resources
+D:\repan\modul3_1302223057\modul3_1302223057\obj\Debug\modul3_1302223057.Properties.Resources.resources
+D:\repan\modul3_1302223057\modul3_1302223057\obj\Debug\modul3_1302223057.csproj.GenerateResource.cache
+D:\repan\modul3_1302223057\modul3_1302223057\obj\Debug\modul3_1302223057.csproj.CoreCompileInputs.cache
+D:\repan\modul3_1302223057\modul3_1302223057\bin\Debug\modul3_1302223057.exe.config
+D:\repan\modul3_1302223057\modul3_1302223057\bin\Debug\modul3_1302223057.exe
+D:\repan\modul3_1302223057\modul3_1302223057\bin\Debug\modul3_1302223057.pdb
+D:\repan\modul3_1302223057\modul3_1302223057\obj\Debug\modul3_1302223057.exe
+D:\repan\modul3_1302223057\modul3_1302223057\obj\Debug\modul3_1302223057.pdb
